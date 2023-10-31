@@ -1,0 +1,66 @@
+/* RESET CSS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* SELEZIONI ID */
+
+/* SELEZIONI TAG */
+
+header{
+    width: 100%;
+    
+}
+body{
+    margin: 0 auto;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+i{
+    color: white;
+    padding: 3px;
+}
+
+/* SELEZIONI CLASSI */
+
+
+.bg-image{
+    background-image: url(../img/jumbo.png);
+    background-size: 100%;
+    background-position: 70%;
+}
+
+.bg-image2{
+    background-image: url(../img/stars.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-row{
+    background-color: rgb(246, 246, 246);
+}
+
+.bg-button{
+    border-radius: 25px;
+    background-color: rgb(114, 137, 218);
+}
+
+.br-button{
+    border-radius: 25px;
+}
+
+.h-15{
+    height: 15px;
+    
+}
